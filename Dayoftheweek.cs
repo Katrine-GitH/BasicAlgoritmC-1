@@ -9,7 +9,7 @@ Console.WriteLine("Напишите число дня недели");
 int a = int.Parse(Console.ReadLine());
 if (a < 6)
 {
-    Console.WriteLine("no");
+    Console.WriteLine("doesn't exist");
 }
 if (a == 7)
 {
